@@ -1,0 +1,16 @@
+#TD{
+    color: white;
+    background-color: rgb(1, 1, 1);
+    display: block;
+    color: rgb(203, 30, 30);
+    text-align: center;    
+}
+
+#titulo{
+    padding-right: 85%;
+    padding-top: 15px;
+}  
+.titulo2{
+    border: 3px solid rgb(203, 30, 30);
+    
+   }
